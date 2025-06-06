@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Mac files
+.DS_Store
+
+# Token files
+.env
+bot.token
+
+# PyCharm
+.idea/
